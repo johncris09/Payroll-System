@@ -1,0 +1,89 @@
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmSplash.resources
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.csproj.GenerateResource.Cache
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.FrmLogin.resources
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmMain.resources
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\bin\Debug\JCMPayrollSystem.accdb
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.User.User_Register.resources
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.User.frmChangePassword.resources
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Employee.EmployeeRegister.resources
+C:\Users\Via Marie\Desktop\PIT Final\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Employee.frmEmpSalary.resources
+D:\b\Manabo\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+D:\b\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+D:\b\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+D:\b\Manabo\PayrollSystem\PayrollSystem\bin\Debug\JCMPayrollSystem.accdb
+D:\b\Manabo\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+D:\b\Manabo\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+D:\b\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
+D:\b\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Employee.EmployeeRegister.resources
+D:\b\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Employee.frmEmpSalary.resources
+D:\b\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.FrmLogin.resources
+D:\b\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmMain.resources
+D:\b\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmSplash.resources
+D:\b\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+D:\b\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.User.frmChangePassword.resources
+D:\b\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.User.User_Register.resources
+D:\b\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.csproj.GenerateResource.Cache
+D:\b\Manabo\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Employee.frmEmployeeAttendance.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\bin\Debug\JCMPayrollSystem.accdb
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Employee.EmployeeRegister.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Employee.frmEmployeeAttendance.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Employee.frmEmpSalary.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.FrmLogin.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmMain.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmSplash.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.User.frmChangePassword.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.User.User_Register.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.csproj.GenerateResource.Cache
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Employee.frmAttendanceView.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Reports.frmUserReports.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\RdlCompile.cache
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Reports.frmEmpAttendanceReports.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Reports.frmsample.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Reports.frmSalaryReports.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Reports.frmEmpReports.resources
+C:\Users\Via Marie\Desktop\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Reports.frmemppayslip.resources
+D:\11\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+D:\11\PayrollSystem\PayrollSystem\bin\Debug\JCMPayrollSystem.accdb
+D:\11\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+D:\11\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Employee.EmployeeRegister.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Employee.frmAttendanceView.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Employee.frmEmployeeAttendance.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Employee.frmEmpSalary.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.FrmLogin.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmMain.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmSplash.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Reports.frmEmpAttendanceReports.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Reports.frmemppayslip.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Reports.frmEmpReports.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Reports.frmSalaryReports.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Reports.frmsample.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Reports.frmUserReports.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.User.frmChangePassword.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.User.User_Register.resources
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.csproj.GenerateResource.Cache
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\RdlCompile.cache
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\RdlCompile.compiled
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmsample.resources
+D:\11\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.manifest
+D:\11\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.application
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe.manifest
+D:\11\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.application
